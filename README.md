@@ -1,5 +1,5 @@
 ## Oscar Velásquez 
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](www.linkedin.com/in/oscar-vel)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/oscar-vel/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://docs.google.com/document/d/1nMpsMYZOwKiJINRN_0UqDMJyj3m3wpt73Z3F1Wep2aM/edit?usp=sharing)
 
 Ingeniero en recursos naturales renovables graduado en la [Universidad Nacional Agraria](https://www.una.edu.ni/). Actualmente aprendiendo programación para el uso de sistemas de información geografica. Mis intereses de investigación es la aplicación de big data, machine learning y cloud computing (ejemplo [Google Earth Engine](https://earthengine.google.com/)) para estudiar cambios  en los recursos naturales, específicamente en el uso suelo y degradación de bosques naturales. 
